@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="socks5.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="4"/>
+        <CursorPos X="24" Y="39"/>
+        <UsageCount Value="61"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="usocks5.pas"/>
+        <UnitName Value="uSocks5"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="196"/>
+        <CursorPos X="5" Y="104"/>
+        <UsageCount Value="31"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\rcmdline-master\rcmdline.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="61"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="15" HistoryIndex="14">
+      <Position1>
+        <Filename Value="socks5.lpr"/>
+        <Caret Line="3" Column="14"/>
+      </Position1>
+      <Position2>
+        <Filename Value="usocks5.pas"/>
+        <Caret Line="118" Column="73" TopLine="100"/>
+      </Position2>
+      <Position3>
+        <Filename Value="socks5.lpr"/>
+        <Caret Line="3" Column="14"/>
+      </Position3>
+      <Position4>
+        <Filename Value="socks5.lpr"/>
+        <Caret Line="12" Column="20"/>
+      </Position4>
+      <Position5>
+        <Filename Value="socks5.lpr"/>
+        <Caret Line="13" Column="22"/>
+      </Position5>
+      <Position6>
+        <Filename Value="socks5.lpr"/>
+        <Caret Line="29"/>
+      </Position6>
+      <Position7>
+        <Filename Value="usocks5.pas"/>
+        <Caret Line="17" Column="24"/>
+      </Position7>
+      <Position8>
+        <Filename Value="usocks5.pas"/>
+        <Caret Line="113" Column="91" TopLine="85"/>
+      </Position8>
+      <Position9>
+        <Filename Value="usocks5.pas"/>
+        <Caret Line="54" Column="11" TopLine="52"/>
+      </Position9>
+      <Position10>
+        <Filename Value="usocks5.pas"/>
+        <Caret Line="55" Column="17" TopLine="48"/>
+      </Position10>
+      <Position11>
+        <Filename Value="usocks5.pas"/>
+        <Caret Line="119" Column="50" TopLine="92"/>
+      </Position11>
+      <Position12>
+        <Filename Value="usocks5.pas"/>
+        <Caret Line="70" Column="76" TopLine="53"/>
+      </Position12>
+      <Position13>
+        <Filename Value="usocks5.pas"/>
+        <Caret Line="153" Column="41" TopLine="140"/>
+      </Position13>
+      <Position14>
+        <Filename Value="usocks5.pas"/>
+        <Caret Line="189" Column="80" TopLine="169"/>
+      </Position14>
+      <Position15>
+        <Filename Value="usocks5.pas"/>
+        <Caret Line="104" Column="7" TopLine="95"/>
+      </Position15>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
